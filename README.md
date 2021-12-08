@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Course work
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project was developed in May 2021.\
+It is examples of my React/Redux application.\
 
 ## Available Scripts
 
