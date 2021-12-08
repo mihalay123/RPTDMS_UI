@@ -1,0 +1,82 @@
+.full-width {
+  width: 100%;
+}
+
+.grid-item_input-field {
+  width: 40%;
+}
+
+.table-pagination {
+  margin-left: 2.5px;
+  flex-shrink: 0; 
+  overflow: hidden;
+}
+
+.user-page {
+  background-color: white;
+}
+
+.MuiDialog-paper.MuiDialog-paperWidthSm {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+  min-width: 730px;
+  max-width: 1000px;
+  width: 890px;
+  max-height: 1200px;
+  height: 90%;
+}
+
+.grid_content.MuiDialogContent-root {
+  padding: 0px;
+  padding-top: 25px;
+  overflow-x: hidden;
+}
+
+.grid_item.MuiGrid-item{
+  width: 250px;
+  
+}
+
+.field.MuiFormControl-root {
+  width: 250px;
+}
+
+.grid_plots_row.MuiGrid-container {
+  margin-left: 20px;
+}
+
+.grid_location_row.MuiGrid-item {
+  padding: 0px;
+}
+
+.delete_button_container.MuiGrid-item {
+  justify-content: flex-end;
+}
+
+.page_header {
+  padding-bottom: 40px;
+}
+
+.MuiButton-root {
+  width: 200px;
+}
+
+.good_chip.MuiChip-root {
+  background-color: #1AA05E;
+  color: white;
+}
+
+.warning_chip.MuiChip-root {
+  background-color: #FBCB44;
+  color: black;
+}
+
+.error_chip.MuiChip-root {
+  background-color: #D95942;
+  color: white;
+}
+
+.MuiChip-icon.MuiSvgIcon-root {
+  color: white;
+}
