@@ -1,6 +1,6 @@
 # Course work
 
-The project was developed in May 2021.\
+The project was developed in May 2021.
 It is the example of my React/Redux development experience.
 
 ## Available Scripts
