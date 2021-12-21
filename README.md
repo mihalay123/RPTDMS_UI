@@ -1,6 +1,6 @@
 # Diploma project
 
-The project was developed in May 2021. It is my diploma project in SPBGUT.\
+The project was developed in May 2021. It is my diploma project in SPBGUT.
 It is the example of my React/Redux development experience.
 
 ## About
